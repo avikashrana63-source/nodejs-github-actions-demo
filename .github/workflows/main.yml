@@ -6,7 +6,7 @@ on:
 
 jobs:
   build:
-    runs-on: [self-hosted, abhi1worker-server]
+    runs-on: [self-hosted, CSPC158]
 
     steps:
       - name: Checkout code
